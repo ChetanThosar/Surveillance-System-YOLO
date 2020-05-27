@@ -1,0 +1,17 @@
+.container-fluid {
+  max-height: 100vh;
+  overflow-y: scroll;
+  min-height: 100vh;
+}
+
+.video {
+  overflow-y: wrap;
+}
+
+.videoPlayer {
+  width: 100%;
+}
+
+.video-details>h6 {
+  overflow-wrap: break-word;
+}
